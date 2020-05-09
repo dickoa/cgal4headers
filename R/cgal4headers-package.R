@@ -1,4 +1,4 @@
-#' Provides CGAL 'C++' header-only library.
+#' Provides the 'C++' header-only library of CGAL version 4
 #'
 #' @examples
 #' \dontrun{

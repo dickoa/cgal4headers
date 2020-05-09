@@ -4,7 +4,7 @@
 \name{cgal4headers-package}
 \alias{cgal4headers}
 \alias{cgal4headers-package}
-\title{Provides CGAL 'C++' header-only library.}
+\title{Provides the 'C++' header-only library of CGAL version 4}
 \description{
 CGAL is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
 }
