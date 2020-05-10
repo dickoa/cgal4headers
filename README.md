@@ -31,4 +31,4 @@ To use `cgal4headers` in your own package, add a dependency to `cgal4headers` to
 
 ## License
 
-This package is provided under the double GPL-3 | LGPL license like CGAL
+This package is provided under the double [GPL-3](https://www.gnu.org/licenses/gpl-3.0.en.html) | [LGPL-3](https://www.gnu.org/licenses/lgpl-3.0.en.html) license like CGAL.
